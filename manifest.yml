@@ -1,0 +1,7 @@
+---
+applications:
+  - name: web-app2
+    buildpacks: 
+      - java_buildpack
+    path: target/web-app2-0.0.1-SNAPSHOT.jar
+ 

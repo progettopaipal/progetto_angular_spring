@@ -1,0 +1,51 @@
+{
+ "video" : [
+     {
+    "titolo" : "Chiamata urbana urgente - Seven show - Politica",
+    "durata" : 40,
+    "nome_file" : "assets/1.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Chiamata urbana urgente - Seven show - Amici",
+    "durata" : 6,
+    "nome_file" : "assets/2.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Ficarra e Picone - Che tempo fa 1",
+    "durata" : 4,
+    "nome_file" : "assets/3.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Ficarra e Picone - Che tempo fa 2",
+    "durata" : 1,
+    "nome_file" : "assets/4.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Chiamata urbana urgente - Seven show - In treno",
+    "durata" : 3,
+    "nome_file" : "assets/5.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Chiamata urbana urgente - TG",
+    "durata" : 12,
+    "nome_file" : "assets/6.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Ficarra e Picone - Mi vergogno di essere siciliano",
+    "durata" : 50,
+    "nome_file" : "assets/7.mp4",
+    "descrizione" : ""
+    },
+    {
+    "titolo" : "Ficarra e Picone - Domande scottanti",
+    "durata" : 30,
+    "nome_file" : "assets/8.mp4",
+    "descrizione" : ""
+    } ]
+}
